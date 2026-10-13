@@ -1,0 +1,14 @@
+# Segredos e dados pessoais: nunca versionar
+.env
+config.local.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Arquivos temporários do Excel
+~$*.xlsx
+
+# Streamlit
+.streamlit/secrets.toml

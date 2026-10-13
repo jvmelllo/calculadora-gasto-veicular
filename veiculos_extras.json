@@ -1,0 +1,9 @@
+{
+  "polo-1-6-2018": {
+    "nome": "polo 1.6 2018",
+    "combustivel": "gasolina",
+    "consumo_cidade_km_l": 12.0,
+    "consumo_estrada_km_l": 13.9,
+    "fonte": "Informado pelo usuário."
+  }
+}

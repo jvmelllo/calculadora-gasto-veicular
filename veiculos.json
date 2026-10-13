@@ -1,0 +1,9 @@
+{
+  "fiesta-1.6-powershift-2014": {
+    "nome": "Ford Fiesta 1.6 PowerShift 2014",
+    "combustivel": "gasolina",
+    "consumo_cidade_km_l": 11.4,
+    "consumo_estrada_km_l": 13.9,
+    "fonte": "Valores atribuídos ao Inmetro (gasolina) para o New Fiesta 1.6 automático 2014. Teste real citado: 9,7 km/l (cidade) e 12,4 km/l (estrada). Ajuste com o seu consumo medido."
+  }
+}
