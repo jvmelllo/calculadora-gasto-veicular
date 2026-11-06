@@ -2,8 +2,11 @@
 
 Digite o destino e descubra quanto custa a viagem de carro no Rio de Janeiro: **distância, tempo, combustível e pedágio**. O app vem configurado com um Ford Fiesta 1.6 PowerShift 2014 e aceita outros veículos.
 
-<!-- Adicione aqui uma captura de tela do app: ![Tela do app](docs/tela.png) -->
-<!-- Adicione aqui o link do app publicado: **[Abrir o app](https://...)** -->
+<p align="center">
+  <img src="docs/tela1-comdados.png" alt="Rota e cálculo do combustível" width="48%">
+  <img src="docs/tela2-comdados.png" alt="Pedágio e resultado da viagem" width="48%">
+</p>
+https://calculadora-gasto-veicular-rj.streamlit.app/
 
 ## O que faz
 
